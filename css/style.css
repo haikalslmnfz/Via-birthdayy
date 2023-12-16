@@ -404,6 +404,7 @@ font-family: 'Lobster', cursive;
           backface-visibility: hidden;
   background-position: center;
   background-size: cover;
+  background-image: url("foto via.jpg");
   -webkit-animation: fade-in 20s ease-in;
           animation: fade-in 20s ease-in;
   -webkit-animation-iteration-count: 1;
